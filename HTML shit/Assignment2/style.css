@@ -16,6 +16,7 @@ main *, h1
 article
 {
     background-color: rgb(148, 148, 239);
+    text-align: center;
     border-radius: 4vw;
     margin: 5vw;
 }
